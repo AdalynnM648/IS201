@@ -1,0 +1,42 @@
+footer{
+    padding: 20px;
+    background-color: slategrey;
+    color: seashell;
+
+}
+          
+.indianaimage{ 
+    display: block;
+    margin: 0 auto;
+    width: 300px;  
+    height: auto;    
+    border: 3px; 
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: slategrey;
+    background-color: seashell;
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+    padding: 20px;
+    border: 10px solid pink;
+    margin: 50;
+}
+
+.Mylists{
+    text-align: center;
+   }
+
+.mylistitems{
+    display: inline-block;
+    text-align: left;
+
+}
+header{
+    padding: 20px;
+    background-color: slategrey;
+    text-align: center;
+    color: seashell
+}
